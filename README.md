@@ -15,7 +15,7 @@ Throughout this Professional Certificate, you will complete hands-on labs and pr
 #### Projects:
 #### Tools: 
 #### Libraries:
-#### Course Link:
+#### Course Link: [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
 
 ## Certification Overview
