@@ -1,24 +1,25 @@
-# IBM-Data-Engineering-Professional-Certificate
-Learning materials, assignments, and helpful resources for professional certification. Completed June 2023
-
-IBM
+# IBM Data Engineering Professional Certificate
 - ADD actual logo as image
+- Learning materials, assignments, and helpful resources for professional certification. Expected Completion June 2023
 
-## About this Professional Certification  
+### About this Professional Certification  
 - ADD
 
 
-
-## Applied Learning Project
+### Applied Learning Project
 Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, relational databases, NoSQL databases, Apache Spark, building data pipelines, managing databases, and working with data warehouses.
 - Edit and ADD
-#### Projects:
-#### Tools: 
-#### Libraries:
-#### Course Link: [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+##### Projects:
+
+##### Capstone
+- ADD
+
+##### Tools: `python`, `MySQL`, `IBM Db2`, `PostgreSQL`, `MongoDB`, `Cassandra`, `Hadoop`, `Apache Spark`, `SparkSQL`, `SparkML`, `SQL`, `Bash`, `Apache Airflow`, `Apache Kafka`
+##### Libraries: `pandas`, `numpy`, `matplotlib`, 
+[IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
 
-## Certification Overview
+### Certification Overview
 |    | Courses |
 | ----- | ------ |
 |1. |[Introduction to Data Engineering](create linked page)
@@ -35,12 +36,10 @@ Throughout this Professional Certificate, you will complete hands-on labs and pr
 |12. |[Data Engineering and Machine Learning using Spark](create linked page)
 |13. |[Data Engineering Capstone Project](create linked page)
 
-## Resources
-#### Capstone
+### Useful Resources
 - ADD
-#### Data Engineering Toolkit
-- ADD
-#### Instructors
+
+### Instructors
 - ADD
 
 
