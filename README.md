@@ -14,7 +14,7 @@ Throughout this Professional Certificate, you will complete hands-on labs and pr
 ##### Capstone
 - ADD
 
-##### Tools: `python`, `MySQL`, `IBM Db2`, `PostgreSQL`, `MongoDB`, `Cassandra`, `Hadoop`, `Apache Spark`, `SparkSQL`, `SparkML`, `SQL`, `Bash`, `Apache Airflow`, `Apache Kafka`
+##### Tools: `python`, `github`, `Watson Studio` `MySQL`, `IBM Db2`, `PostgreSQL`, `MongoDB`, `Cassandra`, `Hadoop`, `Apache Spark`, `SparkSQL`, `SparkML`, `SQL`, `Bash`, `Apache Airflow`, `Apache Kafka`, `IBM Cloudant`,
 ##### Libraries: `pandas`, `numpy`, `matplotlib`, 
 [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
